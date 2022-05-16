@@ -66,8 +66,9 @@ I. HTML chia 2 phần.
 
         +, Thẻ <img>:
                 --> Sử dụng để chèn ảnh vào trang web.
-                Vd: <img src= "https://thuthuatnhanh.com/wp-content/uploads/2020/10/hinh-anh-one-piece-luffy-cuoi-de-thuong.jpg"/>
+                Vd: <img width="100" src= "https://thuthuatnhanh.com/wp-content/uploads/2020/10/hinh-anh-one-piece-luffy-cuoi-de-thuong.jpg"/>
                 --> tag này chỉ gồm thẻ đóng và thuộc tính src.
+                --> Chỉnh kích cỡ ảnh = 100 với width
 
     1.2.2. Lấy thông tin từ người dùng.
         +, Thẻ <form>:
@@ -92,6 +93,12 @@ I. HTML chia 2 phần.
                                     <option>huy ngu</option>
                                     <option>huy rất ngu</option>
                                 </select>
+
+        +, Thẻ <button>
+            --> Tạo button
+                <button> Bấm vào để sung sướng </button>
+
+
         
         
 
